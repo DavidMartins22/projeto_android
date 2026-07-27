@@ -1,6 +1,6 @@
 # 🤖 História do Mascote do Android
 
-Projeto desenvolvido como parte dos estudos do curso de **HTML5 e CSS3** do :contentReference[oaicite:0]{index=0}, utilizando os conhecimentos adquiridos ao longo das aulas e o material de apoio disponibilizado durante o curso.
+Projeto desenvolvido como parte dos estudos do curso de **HTML5 e CSS3** do **Curso em Vídeo** do **Gustavo Guanabara**, utilizando os conhecimentos adquiridos ao longo das aulas e o material de apoio disponibilizado durante o curso.
 
 O objetivo do projeto foi colocar em prática os principais conceitos de desenvolvimento web por meio da criação de uma página responsiva sobre a história do mascote do Android.
 
@@ -130,7 +130,7 @@ Além da implementação do layout, o projeto contribuiu para aprimorar a escrit
 
 # 🎓 Créditos
 
-Este projeto foi desenvolvido por **David Martins** como atividade prática do curso de **HTML5 e CSS3** do :contentReference[oaicite:1]{index=1}.
+Este projeto foi desenvolvido por **David Martins** como atividade prática do curso de **HTML5 e CSS3** do **Curso em Vídeo** do **Gustavo Guanabara**.
 
 Todo o desenvolvimento foi realizado por mim utilizando como apoio as aulas e o material em PDF disponibilizados durante o curso, com o objetivo de praticar e consolidar os conhecimentos adquiridos.
 
@@ -154,4 +154,4 @@ Algumas melhorias que poderão ser implementadas futuramente:
 
 Desenvolvido por **David Martins**.
 
-Projeto criado como prática do curso de **HTML5 e CSS3** do :contentReference[oaicite:2]{index=2}.
+Projeto criado como prática do curso de **HTML5 e CSS3** do **Curso em Vídeo** do **Gustavo Guanabara**.
