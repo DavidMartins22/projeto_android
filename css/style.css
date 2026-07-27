@@ -205,6 +205,12 @@ aside h3 {
     border-radius: 5px;
 }
 
+ul>li {
+    margin: 10px;
+    max-width: 800px;
+    min-width: 420px;
+}
+
 aside a {
     color: var(--cor7);
 }
