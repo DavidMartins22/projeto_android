@@ -1,4 +1,4 @@
-# 🤖 História do Mascote do Android
+# História do Mascote do Android
 
 Projeto desenvolvido como parte dos estudos do curso de **HTML5 e CSS3** do **Curso em Vídeo** do **Gustavo Guanabara**, utilizando os conhecimentos adquiridos ao longo das aulas e o material de apoio disponibilizado durante o curso.
 
@@ -6,7 +6,7 @@ O objetivo do projeto foi colocar em prática os principais conceitos de desenvo
 
 ---
 
-# 📌 Sobre o Projeto
+# Sobre o Projeto
 
 Este projeto consiste em uma página web informativa que apresenta a origem e a evolução do mascote do Android, conhecido como **Bugdroid**.
 
@@ -16,7 +16,7 @@ Embora o projeto tenha sido baseado nas orientações do curso e no PDF de apoio
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 - Página totalmente em HTML5 e CSS3
 - Layout responsivo
@@ -31,7 +31,7 @@ Embora o projeto tenha sido baseado nas orientações do curso e no PDF de apoio
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -53,7 +53,7 @@ Embora o projeto tenha sido baseado nas orientações do curso e no PDF de apoio
 
 ---
 
-# 🧠 Conceitos Aplicados
+# Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto foram praticados diversos conceitos importantes, entre eles:
 
@@ -74,7 +74,7 @@ Durante o desenvolvimento deste projeto foram praticados diversos conceitos impo
 
 ---
 
-# 📖 Conteúdo da Página
+# Conteúdo da Página
 
 A página aborda temas como:
 
@@ -88,7 +88,7 @@ A página aborda temas como:
 
 ---
 
-# ▶️ Como Executar o Projeto
+# Como Executar o Projeto
 
 ## 1. Clone o repositório
 
@@ -114,13 +114,13 @@ Ou utilize a extensão **Live Server** no Visual Studio Code para uma melhor exp
 
 ---
 
-# 📱 Responsividade
+# Responsividade
 
 O projeto foi desenvolvido para oferecer uma boa experiência em diferentes dispositivos, adaptando imagens e elementos da página conforme o tamanho da tela.
 
 ---
 
-# 📚 Objetivo Acadêmico
+# Objetivo Acadêmico
 
 Este projeto teve como objetivo reforçar os conhecimentos adquiridos durante o curso de HTML5 e CSS3, praticando a criação de páginas web completas, organizadas e responsivas.
 
@@ -128,7 +128,7 @@ Além da implementação do layout, o projeto contribuiu para aprimorar a escrit
 
 ---
 
-# 🎓 Créditos
+# Créditos
 
 Este projeto foi desenvolvido por **David Martins** como atividade prática do curso de **HTML5 e CSS3** do **Curso em Vídeo** do **Gustavo Guanabara**.
 
@@ -136,7 +136,7 @@ Todo o desenvolvimento foi realizado por mim utilizando como apoio as aulas e o 
 
 ---
 
-# 🔮 Melhorias Futuras
+# Melhorias Futuras
 
 Algumas melhorias que poderão ser implementadas futuramente:
 
@@ -150,7 +150,7 @@ Algumas melhorias que poderão ser implementadas futuramente:
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 Desenvolvido por **David Martins**.
 
