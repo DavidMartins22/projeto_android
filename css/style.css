@@ -199,20 +199,13 @@ aside h3 {
 .lista {
     columns: 2;
     list-style-type: '\2714\00A0\00A0';
-    padding: 20px;
-    margin: 20px;
+    padding: 25px;
+    margin: 25px;
     text-align: justify;
     text-decoration: none;
     list-style-position: inside;
     border-radius: 5px;
-}
-
-
-ul>li {
-    padding: 5px;
-    margin: 10px;
-    max-width: 1020px;
-    min-width: 230px;
+    width: 100%;
 }
 
 aside a {
