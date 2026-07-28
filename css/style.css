@@ -213,6 +213,7 @@ ul>li {
     margin: 10px;
     max-width: 620px;
     min-width: 420px;
+    width: 100%;
 }
 
 aside a {
