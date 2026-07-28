@@ -209,6 +209,7 @@ aside h3 {
 
 
 ul>li {
+    padding: 5px;
     margin: 10px;
     max-width: 620px;
     min-width: 420px;
